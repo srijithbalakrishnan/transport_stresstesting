@@ -1,0 +1,2 @@
+n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
+160,354,0.01391509433962264,4.425,2.02962434947948,0.0404040404040404,0.04833333333333332,-0.2551611278952665,52722.76381324949,148.9343610543771,6001.884540657223,16.954476103551478,EPSG:32643,437866.0726008648,1596261.9968863681,Kumta
