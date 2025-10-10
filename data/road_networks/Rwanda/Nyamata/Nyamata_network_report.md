@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Nyamata_location.png" alt="Nyamata Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 31.05
 
 ---
-*Report generated on 2025-10-09 19:20:47*
+*Report generated on 2025-10-10 16:11:05*

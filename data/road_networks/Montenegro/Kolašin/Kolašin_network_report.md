@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Kolašin_location.png" alt="Kolašin Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 12.90
 
 ---
-*Report generated on 2025-10-09 19:19:38*
+*Report generated on 2025-10-10 16:09:35*

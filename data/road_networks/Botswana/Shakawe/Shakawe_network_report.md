@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Shakawe_location.png" alt="Shakawe Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 13.54
 
 ---
-*Report generated on 2025-10-09 19:16:53*
+*Report generated on 2025-10-10 16:05:25*

@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Zabljak_location.png" alt="Zabljak Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 8.11
 
 ---
-*Report generated on 2025-10-09 19:19:41*
+*Report generated on 2025-10-10 16:09:38*

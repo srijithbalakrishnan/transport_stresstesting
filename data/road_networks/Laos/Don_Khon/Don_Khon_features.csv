@@ -1,0 +1,2 @@
+n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
+33,76,0.07196969696969698,4.606060606060606,1.8738939192412492,0.046875,0.045454545454545456,-0.19726027397260237,37841.35938344157,497.91262346633647,4540.963126012987,59.74951481596036,EPSG:32648,600697.0931552501,1542613.1224098299,Don_Khon

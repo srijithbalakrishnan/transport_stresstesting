@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Locronan_location.png" alt="Locronan Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 12.10
 
 ---
-*Report generated on 2025-10-09 19:18:11*
+*Report generated on 2025-10-10 16:07:14*

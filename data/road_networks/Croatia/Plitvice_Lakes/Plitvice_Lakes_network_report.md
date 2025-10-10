@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Plitvice_Lakes_location.png" alt="Plitvice_Lakes Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 77.91
 
 ---
-*Report generated on 2025-10-09 19:17:28*
+*Report generated on 2025-10-10 16:06:30*

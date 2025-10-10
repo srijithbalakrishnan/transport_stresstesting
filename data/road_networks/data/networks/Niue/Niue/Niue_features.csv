@@ -1,0 +1,2 @@
+n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
+117,297,0.021883289124668436,5.076923076923077,1.8170787401565711,0.125,0.124031007751938,-0.1311125780734284,267635.9208047299,901.1310464805721,22624.31975087539,76.17616077735822,EPSG:32702,616979.6569477847,7892458.690583695,Niue

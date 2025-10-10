@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Chaiten_location.png" alt="Chaiten Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 51.93
 
 ---
-*Report generated on 2025-10-09 19:17:09*
+*Report generated on 2025-10-10 16:06:01*

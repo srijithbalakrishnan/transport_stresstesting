@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Muang_Khua_location.png" alt="Muang_Khua Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 275.41
 
 ---
-*Report generated on 2025-10-09 19:19:25*
+*Report generated on 2025-10-10 16:09:10*

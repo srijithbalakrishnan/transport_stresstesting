@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Civita_di_Bagnoregio_location.png" alt="Civita_di_Bagnoregio Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 16.65
 
 ---
-*Report generated on 2025-10-09 19:19:03*
+*Report generated on 2025-10-10 16:08:32*

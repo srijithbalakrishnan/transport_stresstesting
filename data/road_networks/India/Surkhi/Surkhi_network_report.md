@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Surkhi_location.png" alt="Surkhi Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 19.12
 
 ---
-*Report generated on 2025-10-09 19:18:49*
+*Report generated on 2025-10-10 16:08:02*

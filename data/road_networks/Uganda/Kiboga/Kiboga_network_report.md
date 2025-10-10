@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Kiboga_location.png" alt="Kiboga Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 135.20
 
 ---
-*Report generated on 2025-10-09 19:21:49*
+*Report generated on 2025-10-10 16:12:42*

@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Nagarkot_location.png" alt="Nagarkot Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 76.11
 
 ---
-*Report generated on 2025-10-09 19:19:56*
+*Report generated on 2025-10-10 16:09:55*

@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Tuktoyaktuk_location.png" alt="Tuktoyaktuk Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 29.93
 
 ---
-*Report generated on 2025-10-09 19:17:03*
+*Report generated on 2025-10-10 16:05:54*

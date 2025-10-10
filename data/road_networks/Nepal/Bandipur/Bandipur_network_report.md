@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Bandipur_location.png" alt="Bandipur Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 95.84
 
 ---
-*Report generated on 2025-10-09 19:19:55*
+*Report generated on 2025-10-10 16:09:52*

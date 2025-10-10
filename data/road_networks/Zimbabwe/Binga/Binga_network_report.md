@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Binga_location.png" alt="Binga Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 261.55
 
 ---
-*Report generated on 2025-10-09 19:22:33*
+*Report generated on 2025-10-10 15:38:15*

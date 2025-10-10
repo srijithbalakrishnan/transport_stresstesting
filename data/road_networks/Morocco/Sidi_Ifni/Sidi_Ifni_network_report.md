@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Sidi_Ifni_location.png" alt="Sidi_Ifni Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 5.22
 
 ---
-*Report generated on 2025-10-09 19:19:49*
+*Report generated on 2025-10-10 16:09:44*

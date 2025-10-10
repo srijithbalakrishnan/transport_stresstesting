@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Verkhoyansk_location.png" alt="Verkhoyansk Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 51.60
 
 ---
-*Report generated on 2025-10-09 19:20:43*
+*Report generated on 2025-10-10 16:11:02*

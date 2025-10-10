@@ -1,0 +1,2 @@
+n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
+40,110,0.07051282051282051,5.5,1.7175564037317668,0.05405405405405406,0.0588235294117647,-0.16084425036390024,17443.321486050347,158.57564987318497,2093.1985783260416,19.029077984782194,EPSG:32616,290900.1964316626,1799888.0166072645,San_Pedro_Columbia

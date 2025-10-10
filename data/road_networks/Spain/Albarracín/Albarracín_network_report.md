@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Albarracín_location.png" alt="Albarracín Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 24.98
 
 ---
-*Report generated on 2025-10-09 19:21:01*
+*Report generated on 2025-10-10 16:11:46*

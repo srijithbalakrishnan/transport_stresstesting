@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Hall_in_Tirol_location.png" alt="Hall_in_Tirol Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 16.18
 
 ---
-*Report generated on 2025-10-09 19:16:44*
+*Report generated on 2025-10-10 16:04:55*

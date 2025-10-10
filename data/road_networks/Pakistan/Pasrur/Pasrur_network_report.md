@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Pasrur_location.png" alt="Pasrur Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 10.68
 
 ---
-*Report generated on 2025-10-09 19:20:13*
+*Report generated on 2025-10-10 16:10:28*

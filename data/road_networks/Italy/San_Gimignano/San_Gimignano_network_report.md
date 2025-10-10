@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="San_Gimignano_location.png" alt="San_Gimignano Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 24.45
 
 ---
-*Report generated on 2025-10-09 19:19:09*
+*Report generated on 2025-10-10 16:08:43*

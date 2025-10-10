@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Coober_Pedy_location.png" alt="Coober_Pedy Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 33.18
 
 ---
-*Report generated on 2025-10-09 19:16:15*
+*Report generated on 2025-10-10 16:04:31*

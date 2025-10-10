@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Kutná_Hora_location.png" alt="Kutná_Hora Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 8.37
 
 ---
-*Report generated on 2025-10-09 19:17:38*
+*Report generated on 2025-10-10 16:06:42*

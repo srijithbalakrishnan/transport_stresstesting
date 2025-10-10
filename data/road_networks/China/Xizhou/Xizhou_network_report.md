@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Xizhou_location.png" alt="Xizhou Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 36.86
 
 ---
-*Report generated on 2025-10-09 19:17:21*
+*Report generated on 2025-10-10 16:06:18*

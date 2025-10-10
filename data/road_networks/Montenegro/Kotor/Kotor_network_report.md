@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Kotor_location.png" alt="Kotor Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 12.82
 
 ---
-*Report generated on 2025-10-09 19:19:40*
+*Report generated on 2025-10-10 16:09:36*

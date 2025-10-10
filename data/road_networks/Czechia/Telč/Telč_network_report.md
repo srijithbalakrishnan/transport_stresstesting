@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Telč_location.png" alt="Telč Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 13.38
 
 ---
-*Report generated on 2025-10-09 19:17:40*
+*Report generated on 2025-10-10 16:06:43*

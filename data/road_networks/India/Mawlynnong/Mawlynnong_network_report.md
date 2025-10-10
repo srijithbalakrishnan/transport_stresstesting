@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Mawlynnong_location.png" alt="Mawlynnong Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 23.36
 
 ---
-*Report generated on 2025-10-09 19:18:44*
+*Report generated on 2025-10-10 16:07:54*

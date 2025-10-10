@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Goreme_location.png" alt="Goreme Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 14.05
 
 ---
-*Report generated on 2025-10-09 19:21:32*
+*Report generated on 2025-10-10 16:12:22*

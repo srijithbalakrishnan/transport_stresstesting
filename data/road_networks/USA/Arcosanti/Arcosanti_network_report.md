@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Arcosanti_location.png" alt="Arcosanti Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 23.90
 
 ---
-*Report generated on 2025-10-09 19:22:00*
+*Report generated on 2025-10-10 16:12:56*

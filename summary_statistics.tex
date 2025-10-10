@@ -1,0 +1,39 @@
+
+\begin{table}[h!]
+\centering
+\caption{Descriptive Statistics of the Model Dataset}
+\label{tab:summary_stats}
+\small
+\begin{tabular}{@{}lrrrrr@{}}
+\toprule
+ &  & \multicolumn{4}{c}{\textbf{Summary Statistics}} \\
+\cmidrule(l){3-6}
+\textbf{Variable} & \textbf{N} & \textbf{Mean (SD)} & \textbf{Min} & \textbf{Max} \\
+\midrule
+\begin{tabular}{rrrrr}
+\hline
+                 \multicolumn{5}{l}{\textit{Dependent Variables}} &            &               &       &        \\
+                                            \quad Efficiency Loss &    289,146 & 0.447 (0.264) & 0.000 &  0.941 \\
+                                         \quad Accessibility Loss &    289,146 & 0.369 (0.217) & 0.000 &  0.992 \\
+                                              \quad Morans I Loss &    289,146 & 0.246 (0.212) & 0.000 &  1.000 \\
+                                            \quad Clustering Loss &    289,146 & 0.239 (0.216) & 0.000 &  0.987 \\
+                                                         \midrule &            &               &       &        \\
+  \multicolumn{5}{l}{\textit{Independent Variables (Continuous)}} &            &               &       &        \\
+                                                 \quad Damage Pct &    289,146 &   44.3 (28.0) &   0.0 &   90.0 \\
+                                                    \quad N Edges &    289,146 & 828.4 (621.4) &  32.0 & 2427.0 \\
+                                                 \quad Avg Degree &    289,146 &     4.9 (0.6) &   3.1 &    6.5 \\
+                                              \quad Degree Stddev &    289,146 &     1.8 (0.2) &   1.2 &    2.2 \\
+                                                 \quad Avg Length &    289,146 & 268.0 (443.7) &  53.4 & 5397.4 \\
+                                                         \midrule &            &               &       &        \\
+ \multicolumn{5}{l}{\textit{Independent Variables (Categorical)}} &            &               &       &        \\
+                                       \textbf{Recovery Strategy} & \textbf{n} &   \textbf{\%} &       &        \\
+                                                \quad betweenness &     48,191 &          16.7 &       &        \\
+                                                  \quad closeness &     48,191 &          16.7 &       &        \\
+                                                     \quad degree &     48,191 &          16.7 &       &        \\
+                                                \quad eigenvector &     48,191 &          16.7 &       &        \\
+                                         \quad nearneighbour_edge &     48,191 &          16.7 &       &        \\
+                                                     \quad random &     48,191 &          16.7 &       &        \\
+\hline
+\end{tabular}\bottomrule
+\end{tabular}
+\end{table}

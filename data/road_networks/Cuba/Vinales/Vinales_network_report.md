@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Vinales_location.png" alt="Vinales Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 29.51
 
 ---
-*Report generated on 2025-10-09 19:17:31*
+*Report generated on 2025-10-10 16:06:34*

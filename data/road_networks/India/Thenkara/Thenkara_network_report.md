@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Thenkara_location.png" alt="Thenkara Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 29.20
 
 ---
-*Report generated on 2025-10-09 19:18:52*
+*Report generated on 2025-10-10 16:08:09*

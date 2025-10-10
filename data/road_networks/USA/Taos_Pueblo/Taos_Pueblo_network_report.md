@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Taos_Pueblo_location.png" alt="Taos_Pueblo Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 34.04
 
 ---
-*Report generated on 2025-10-09 19:22:21*
+*Report generated on 2025-10-10 16:13:56*

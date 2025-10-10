@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Gumare_location.png" alt="Gumare Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 13.02
 
 ---
-*Report generated on 2025-10-09 19:16:51*
+*Report generated on 2025-10-10 16:05:18*

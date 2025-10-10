@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Wiluna_location.png" alt="Wiluna Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 647.69
 
 ---
-*Report generated on 2025-10-09 19:16:19*
+*Report generated on 2025-10-10 16:04:50*

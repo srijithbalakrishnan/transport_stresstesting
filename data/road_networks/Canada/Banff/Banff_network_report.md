@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Banff_location.png" alt="Banff Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 18.33
 
 ---
-*Report generated on 2025-10-09 19:16:59*
+*Report generated on 2025-10-10 16:05:33*

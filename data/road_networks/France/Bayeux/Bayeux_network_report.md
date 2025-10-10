@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Bayeux_location.png" alt="Bayeux Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 8.78
 
 ---
-*Report generated on 2025-10-09 19:18:04*
+*Report generated on 2025-10-10 16:07:09*

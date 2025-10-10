@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Alice_Springs_location.png" alt="Alice_Springs Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 7.28
 
 ---
-*Report generated on 2025-10-09 19:16:13*
+*Report generated on 2025-10-10 16:04:29*

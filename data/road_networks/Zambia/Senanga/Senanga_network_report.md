@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Senanga_location.png" alt="Senanga Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 111.95
 
 ---
-*Report generated on 2025-10-09 19:22:29*
+*Report generated on 2025-10-10 15:38:12*

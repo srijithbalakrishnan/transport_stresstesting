@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Barichara_location.png" alt="Barichara Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 39.27
 
 ---
-*Report generated on 2025-10-09 19:17:25*
+*Report generated on 2025-10-10 16:06:23*

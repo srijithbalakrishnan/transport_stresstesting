@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Tenby_location.png" alt="Tenby Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 11.08
 
 ---
-*Report generated on 2025-10-09 19:21:54*
+*Report generated on 2025-10-10 16:12:46*

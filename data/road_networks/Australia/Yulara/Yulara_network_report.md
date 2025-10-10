@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Yulara_location.png" alt="Yulara Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 25.27
 
 ---
-*Report generated on 2025-10-09 19:16:21*
+*Report generated on 2025-10-10 16:04:52*

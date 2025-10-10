@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Santa_Elena_location.png" alt="Santa_Elena Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 82.56
 
 ---
-*Report generated on 2025-10-09 19:17:26*
+*Report generated on 2025-10-10 16:06:27*

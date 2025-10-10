@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Ait_Ben_Haddou_location.png" alt="Ait_Ben_Haddou Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 12.35
 
 ---
-*Report generated on 2025-10-09 19:19:44*
+*Report generated on 2025-10-10 16:09:40*

@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Cafayate_location.png" alt="Cafayate Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 12.66
 
 ---
-*Report generated on 2025-10-09 19:16:10*
+*Report generated on 2025-10-10 16:04:26*

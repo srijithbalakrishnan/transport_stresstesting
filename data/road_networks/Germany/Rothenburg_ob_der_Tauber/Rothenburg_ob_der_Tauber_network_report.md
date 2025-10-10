@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Rothenburg_ob_der_Tauber_location.png" alt="Rothenburg_ob_der_Tauber Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 15.34
 
 ---
-*Report generated on 2025-10-09 19:18:32*
+*Report generated on 2025-10-10 16:07:33*

@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Vaiaku_location.png" alt="Vaiaku Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 16.31
 
 ---
-*Report generated on 2025-10-09 19:21:35*
+*Report generated on 2025-10-10 16:12:30*

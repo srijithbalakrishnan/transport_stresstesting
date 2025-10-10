@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Nevada_City_location.png" alt="Nevada_City Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 13.55
 
 ---
-*Report generated on 2025-10-09 19:22:08*
+*Report generated on 2025-10-10 16:13:32*

@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Stone_Town_location.png" alt="Stone_Town Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 9.83
 
 ---
-*Report generated on 2025-10-09 19:21:22*
+*Report generated on 2025-10-10 16:12:12*

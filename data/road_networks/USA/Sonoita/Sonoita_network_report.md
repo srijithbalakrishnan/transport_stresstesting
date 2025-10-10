@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Sonoita_location.png" alt="Sonoita Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 57.40
 
 ---
-*Report generated on 2025-10-09 19:22:14*
+*Report generated on 2025-10-10 16:13:44*

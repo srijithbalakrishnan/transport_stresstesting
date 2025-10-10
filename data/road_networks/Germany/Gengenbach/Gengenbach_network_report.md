@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Gengenbach_location.png" alt="Gengenbach Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 23.02
 
 ---
-*Report generated on 2025-10-09 19:18:23*
+*Report generated on 2025-10-10 16:07:28*

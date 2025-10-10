@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Lalibela_location.png" alt="Lalibela Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 14.70
 
 ---
-*Report generated on 2025-10-09 19:17:55*
+*Report generated on 2025-10-10 16:07:01*

@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Okrika_location.png" alt="Okrika Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 17.55
 
 ---
-*Report generated on 2025-10-09 19:20:02*
+*Report generated on 2025-10-10 16:10:05*

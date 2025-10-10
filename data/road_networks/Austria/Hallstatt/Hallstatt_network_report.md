@@ -7,11 +7,11 @@
 - **Data Source**: OpenStreetMap
 <img src="Hallstatt_location.png" alt="Hallstatt Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
-<img src="Hallstatt_network_map.png" alt="Hallstatt Road Network Map" width="700"/>
+<img src="Hallstatt_network_map.png" alt="Hallstatt Road Network Map" width="500"/>
 
 #### Network Characteristics
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 20.91
 
 ---
-*Report generated on 2025-10-09 19:15:01*
+*Report generated on 2025-10-10 16:04:53*

@@ -1,0 +1,2 @@
+n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
+24,72,0.13043478260869565,6.0,1.7320508075688772,0.14814814814814814,0.14285714285714285,-0.07936507936507936,8997.847860663465,124.97010917588146,1079.7417432796165,14.996413101105784,EPSG:32702,406661.43237211386,8983008.847095883,Tokelau

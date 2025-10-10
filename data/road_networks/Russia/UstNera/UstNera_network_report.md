@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="UstNera_location.png" alt="UstNera Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 15.03
 
 ---
-*Report generated on 2025-10-09 19:20:41*
+*Report generated on 2025-10-10 16:11:00*

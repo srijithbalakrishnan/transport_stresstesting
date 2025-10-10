@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Kargopol_location.png" alt="Kargopol Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 18.92
 
 ---
-*Report generated on 2025-10-09 19:20:34*
+*Report generated on 2025-10-10 16:10:53*

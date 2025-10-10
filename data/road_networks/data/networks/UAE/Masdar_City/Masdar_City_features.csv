@@ -1,0 +1,2 @@
+n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
+468,819,0.003747323340471092,3.5,1.2801909579781015,0.1661807580174927,0.15665878644602074,0.4587910310177159,95350.3002732328,116.4228330564503,7915.337643854469,9.664636927783235,EPSG:32640,258524.33297395267,2704295.4555587545,Masdar_City

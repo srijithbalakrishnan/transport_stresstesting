@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Ubud_location.png" alt="Ubud Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 10.17
 
 ---
-*Report generated on 2025-10-09 19:18:59*
+*Report generated on 2025-10-10 16:08:22*

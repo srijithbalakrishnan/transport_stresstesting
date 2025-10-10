@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="San_Sebastián_del_Oeste_location.png" alt="San_Sebastián_del_Oeste Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 37.53
 
 ---
-*Report generated on 2025-10-09 19:19:37*
+*Report generated on 2025-10-10 16:09:33*

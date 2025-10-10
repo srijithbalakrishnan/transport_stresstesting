@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Cochrane_location.png" alt="Cochrane Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 91.78
 
 ---
-*Report generated on 2025-10-09 19:17:11*
+*Report generated on 2025-10-10 16:06:04*

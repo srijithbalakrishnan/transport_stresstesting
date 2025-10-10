@@ -1,0 +1,2 @@
+n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
+30,60,0.06896551724137931,4.0,1.8073922282301278,0.06521739130434782,0.09259259259259259,-0.18710747237700687,31942.470448370656,532.3745074728442,3833.0964538044777,63.8849408967413,EPSG:32633,467296.2004520231,4500313.952511203,Ravello

@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Stryi_location.png" alt="Stryi Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 11.56
 
 ---
-*Report generated on 2025-10-09 19:21:58*
+*Report generated on 2025-10-10 16:12:51*

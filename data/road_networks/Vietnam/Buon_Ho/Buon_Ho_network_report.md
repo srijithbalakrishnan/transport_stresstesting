@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Buon_Ho_location.png" alt="Buon_Ho Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 17.46
 
 ---
-*Report generated on 2025-10-09 19:22:25*
+*Report generated on 2025-10-10 16:14:00*

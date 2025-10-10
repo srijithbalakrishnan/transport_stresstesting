@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Fenghuang_County_location.png" alt="Fenghuang_County Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 117.10
 
 ---
-*Report generated on 2025-10-09 19:17:17*
+*Report generated on 2025-10-10 16:06:11*

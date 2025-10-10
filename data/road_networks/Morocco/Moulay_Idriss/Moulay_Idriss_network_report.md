@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Moulay_Idriss_location.png" alt="Moulay_Idriss Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 28.72
 
 ---
-*Report generated on 2025-10-09 19:19:46*
+*Report generated on 2025-10-10 16:09:41*

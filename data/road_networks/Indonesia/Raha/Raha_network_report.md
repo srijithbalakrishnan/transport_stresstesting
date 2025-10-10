@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Raha_location.png" alt="Raha Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 13.51
 
 ---
-*Report generated on 2025-10-09 19:18:55*
+*Report generated on 2025-10-10 16:08:15*

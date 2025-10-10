@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Husiatyn_location.png" alt="Husiatyn Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 36.02
 
 ---
-*Report generated on 2025-10-09 19:21:56*
+*Report generated on 2025-10-10 16:12:48*

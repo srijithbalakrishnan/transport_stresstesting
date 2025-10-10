@@ -7,7 +7,7 @@
 - **Data Source**: OpenStreetMap
 <img src="Giethoorn_location.png" alt="Giethoorn Location Map" width="400" />
 
-- **Analysis Date**: 2025-10-09
+- **Analysis Date**: 2025-10-10
 
 #### Road network topology
 
@@ -36,4 +36,4 @@
 - **Average Travel Time per Edge (seconds)**: 22.39
 
 ---
-*Report generated on 2025-10-09 19:19:59*
+*Report generated on 2025-10-10 16:10:00*
