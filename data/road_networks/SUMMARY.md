@@ -426,7 +426,6 @@
 - [Deià](Spain/Deià/README.md)
 - [Lekeitio](Spain/Lekeitio/README.md)
 - [Valldemossa](Spain/Valldemossa/README.md)
-- [Valldemossa](Spain/Valldemossa/README.md)
 
 ### Sri Lanka
 
@@ -527,5 +526,11 @@
 
 - [Shibam](Yemen/Shibam/README.md)
 
+### Zambia
 
-*Total road networks processed: 222*
+- [Senanga](Zambia/Senanga/README.md)
+
+### Zimbabwe
+
+- [Binga](Zimbabwe/Binga/README.md)
+

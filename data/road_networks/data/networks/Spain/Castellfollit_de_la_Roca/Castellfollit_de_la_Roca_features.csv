@@ -1,2 +1,0 @@
-n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
-34,78,0.06951871657754011,4.588235294117647,1.3745084053585792,0.14285714285714285,0.16666666666666666,0.18424478452884638,6037.637694367766,77.4056114662534,721.4805651885983,9.24975083575126,EPSG:32631,462649.91454867925,4674244.844928284,Castellfollit_de_la_Roca

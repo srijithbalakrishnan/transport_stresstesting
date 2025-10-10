@@ -1,2 +1,0 @@
-n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
-352,968,0.007834757834757835,5.5,1.6989301446391598,0.038537549407114624,0.039956568946796965,0.06734718393066094,103564.31333740095,106.98792700144726,17135.87635765013,17.702351609142696,EPSG:32619,278042.7068196244,2374915.7941197027,Cockburn_Town

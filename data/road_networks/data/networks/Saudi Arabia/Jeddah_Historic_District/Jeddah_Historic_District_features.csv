@@ -1,2 +1,0 @@
-n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
-200,443,0.011130653266331657,4.43,1.6109314076024468,0.051546391752577324,0.04306306306306306,0.3862549361257372,47818.40741424135,107.9422289260527,5738.20888970896,12.95306747112632,EPSG:32637,519196.44927190396,2375939.7093094955,Jeddah_Historic_District

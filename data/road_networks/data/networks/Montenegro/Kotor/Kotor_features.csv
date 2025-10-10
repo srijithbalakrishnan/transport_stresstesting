@@ -1,2 +1,0 @@
-n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
-9,14,0.19444444444444445,3.111111111111111,1.5234788000891208,0.4,0.5714285714285714,-0.15590239111558085,1825.7060288578025,130.40757348984303,179.49134717645333,12.82081051260381,EPSG:32634,316510.0058949829,4699253.578119149,Kotor

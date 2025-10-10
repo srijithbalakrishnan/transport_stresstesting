@@ -1,2 +1,0 @@
-n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
-152,332,0.014464970372952248,4.368421052631579,1.6728647447697718,0.12,0.12361111111111116,0.21223043190965263,164148.99363229857,494.42467961535715,19697.87923587586,59.33096155384295,EPSG:32632,720457.080953734,4723989.9133413015,Pitigliano

@@ -1,2 +1,0 @@
-n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
-16,32,0.13333333333333333,4.0,2.0,0.125,0.125,-0.33333333333333337,5099.807908756609,159.36899714864404,611.976949050793,19.12427965783728,EPSG:32644,352201.3780574586,2641777.833078502,Surkhi

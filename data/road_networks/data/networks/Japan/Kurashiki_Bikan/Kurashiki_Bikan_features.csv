@@ -1,2 +1,0 @@
-n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
-29,58,0.07142857142857142,4.0,1.6815428055498771,0.06382978723404255,0.11666666666666665,-0.2208140965795146,3940.155692676933,67.93371883925747,472.8186831212319,8.152046260710895,EPSG:32653,387523.3216543572,3828966.9093314176,Kurashiki_Bikan

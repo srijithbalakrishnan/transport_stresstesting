@@ -1,2 +1,0 @@
-n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
-128,281,0.017285925196850394,4.390625,1.66880559364325,0.07806691449814127,0.07269503546099289,0.07619634245036859,26355.7205918244,93.79259997090534,3188.6163028595874,11.347388978147999,EPSG:32620,342100.0440966745,3584043.059709755,St_Georges

@@ -1,2 +1,0 @@
-n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
-100,206,0.02080808080808081,4.12,1.9913814300630603,0.03773584905660378,0.03571428571428571,-0.23232142857142793,46027.363070772124,223.4338013144278,5523.2835684926595,26.812056157731355,EPSG:32760,749056.081238124,8142855.104958452,Savusavu

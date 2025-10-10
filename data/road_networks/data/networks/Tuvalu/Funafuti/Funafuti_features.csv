@@ -1,2 +1,0 @@
-n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
-52,146,0.05505279034690799,5.615384615384615,1.665877525208286,0.06,0.053030303030303025,-0.1518737672583824,36062.6108286942,247.00418375817947,3598.705647285406,24.648668817023328,EPSG:32760,741798.5034874779,9057625.945582215,Funafuti
