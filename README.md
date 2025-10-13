@@ -1,10 +1,20 @@
-# Stresstesting road networks using topological metrics — Code & Data
+# Stresstesting road networks using topological metrics: Code and data
 
-This repository contains the code, processed datasets, and scripts used to reproduce the experiments and figures in the paper **"Topology shapes road network recovery: Global evidence from 224 cities"** by Srijith Balakrishnan and Patrick Stokkink. The paper and supplemental material are included in the repository.
+This repository contains the code, processed datasets, and scripts used to reproduce the experiments and figures in the paper **"Topology shapes road network recovery: Global evidence from 224 cities"** by Srijith Balakrishnan and Patrick Stokkink.
 
-The study uses a large-scale simulation-based stress-testing framework to evaluate how urban road networks recover after disruptions. For each of 224 cities/towns (Figure 1), road networks extracted from OpenStreetMap are repeatedly damaged by random edge removals at varying intensities, and multiple recovery strategies (e.g., based on betweenness, closeness, or degree centrality) are applied to restore connectivity. Network performance—measured through efficiency, accessibility, equity, and connectivity—is tracked throughout recovery to quantify resilience and identify structural trade-offs across cities.
+The study uses a large-scale simulation-based stress-testing framework to evaluate how urban road networks recover after disruptions. For each of 224 cities/towns (Figure 1), road networks extracted from OpenStreetMap are repeatedly damaged by random edge removals at varying intensities, and multiple recovery strategies are applied to restore connectivity. Multidimensional network performance is tracked throughout recovery to quantify resilience and identify structural trade-offs across cities.
 <img src="results/figures/road_networks_map.png" alt="224 cities" width="700" />
+
 *Figure 1. Locations of the 224 cities included in the study.*
+
+---
+
+## Methodology
+Road networks from **OpenStreetMap** are converted into graph models using Python’s **`igraph`** package, where intersections are represented as nodes and road segments as edges. Network disruptions are simulated by progressively removing random edges to emulate real-world disturbances such as accidents or hazards. Recovery is modeled using five centrality-based strategies: **degree**, **edge betweenness**, **nearest neighbour edge**, **eigenvector**, and **closeness** alongside a random baseline. These strategies allow systematic evaluation of different prioritization approaches for restoring network connectivity and resilience and track recovery across four competing dimensions: efficiency, accessibility, equity, and connectivity.
+
+<img src="results/figures/graph_methodology.png" alt="method" width="550" />
+
+*Figure 2. Methodology*
 
 ---
 
@@ -42,4 +52,4 @@ Road network data derived from **OpenStreetMap** are covered by the **ODbL licen
 
 ---
 
-_Last updated: 2025-10-10_
+_Last updated: 2025-10-13_
