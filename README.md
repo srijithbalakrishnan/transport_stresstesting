@@ -32,7 +32,7 @@ Road networks from **OpenStreetMap** are converted into graph models using Pytho
 /data/road_networks      # Openstreet road network datasets, including simulation results
 /src/                    # Simulation scripts
 /results/                # Output figures, aggregated dataset for modelling
-/stress_testing.ipynb    # Jupyter notebook to run the stress-testing simulations and statistical models
+stress_testing.ipynb    # Jupyter notebook to run the stress-testing simulations and statistical models
 requirements.txt         # Python dependencies
 README.md                # This file
 LICENSE                  # MIT License
