@@ -14,7 +14,7 @@ Road networks from **OpenStreetMap** are converted into graph models using Pytho
 
 <img src="results/figures/graph_methodology.png" alt="method" width="550" />
 
-*Figure 2. Methodology*
+*Figure 2. Methodology and workflow*
 
 ---
 
