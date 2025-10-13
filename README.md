@@ -24,6 +24,8 @@ Road networks from **OpenStreetMap** are converted into graph models using Pytho
 
 *Figure 3. Simulated recovery curves based on operational efficiency metric under different recovery strategies when initial disruption is 50\% of links (Network: Thenkara, Kerala, India)*
 
+---
+
 ## Repository structure
 
 ```
