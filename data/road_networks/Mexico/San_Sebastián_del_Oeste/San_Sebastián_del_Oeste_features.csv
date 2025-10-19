@@ -1,2 +1,0 @@
-n_nodes,n_edges,density,avg_degree,degree_stddev,global_clustering,avg_clustering,assortativity_degree,total_length,avg_length,total_travel_time,avg_travel_time,crs,longitude,latitude,place_name
-683,1769,0.003797718363438857,5.180087847730601,1.8129391757440485,0.0650994575045208,0.06622306717363748,-0.007728078662333853,667665.8682208931,377.4255897235122,66390.76539131826,37.5301104529781,EPSG:32613,522684.4115697284,2305510.4668892147,San_Sebastián_del_Oeste
