@@ -43,7 +43,7 @@ LICENSE                  # MIT License
 
 If you use this repository, please cite:
 
-> Balakrishnan, S. & Stokkink, P. Topology shapes road network recovery: Global evidence from 224 cities, *Under review*, (2025).
+> Srijith Balakrishnan, Patrick Stokkink. Topology shapes road network recovery: Global evidence from 224 cities, 20 October 2025, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-7851098/v1]
 
 ---
 
@@ -61,4 +61,4 @@ Road network data derived from **OpenStreetMap** are covered by the **ODbL licen
 
 ---
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-10-20_
